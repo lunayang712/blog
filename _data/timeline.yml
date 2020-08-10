@@ -17,42 +17,37 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: Rice University
+  title-url: http://tanggroup.rice.edu/research/
+  date: May 2019 - Present
+  subtitle: Machine Learning Engineer
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: TensorFlow
+    - tag: Python
+    - tag: GAN
+    - tag: computer vision
+    - tag: image super-resolution
+    - tag: thesis-work
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+- title: Rice University
+  title-url: https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201804218
+  date: Aug 2017 - Jan 2019
+  subtitle: Graduate Research Assistant
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+    - tag: Random Structure Search Algorithm
+    - tag: Linux
+    - tag: Shell Scripting
+    - tag: Python
+    - tag: pulished work (Back Cover)
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: Rice University
+  title-url:
+  date: Aug 2017 - May 2020
+  subtitle: M.S. Materials Science and Nanoengineering
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
-  tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
-  timeline-side: right
 
 - title: Super University
   title-url: https://example.com/
