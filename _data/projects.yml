@@ -13,21 +13,31 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Covid-19 news tracker on AWS
+  descr: "link coming soon..."
+  //demo: https://example.com/
   tags:
     - tag: MongoDB
     - tag: Express
     - tag: AngularJS
     - tag: Node
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Deep-learning-based system for nanoscale image generation and super-resolution
+  descr: "link coming soon..."
+  //demo: https://example.com/
   tags:
     - tag: Python
-    - tag: Django
+    - tag: TensorFlow
+    - tag: DCGAN
+    - tag: SRGAN
+    - tag: RNN
+    - tag: Vgg19
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+- name: YelpCamp
+  descr: ""
+  demo: https://morning-spire-39335.herokuapp.com/
+  tags:
+    - tag: MongoDB
+    - tag: Express
+    - tag: NodeJS
+    - tag: Bootstrap 4
