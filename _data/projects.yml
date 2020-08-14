@@ -34,7 +34,7 @@
     - tag: Vgg19
 
 - name: YelpCamp
-  descr: ""
+  descr: "a Yelp style Node.js web application with RESTful routing project for campsites"
   demo: https://morning-spire-39335.herokuapp.com/
   tags:
     - tag: MongoDB
