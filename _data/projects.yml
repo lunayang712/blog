@@ -17,10 +17,10 @@
   descr: "link coming soon..."
   //demo: https://example.com/
   tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
+    - tag: ElasticSearch
+    - tag: Python
+    - tag: AWS
+    - tag: Google Maps
 
 - name: Deep-learning-based system for nanoscale image generation and super-resolution
   descr: "link coming soon..."
